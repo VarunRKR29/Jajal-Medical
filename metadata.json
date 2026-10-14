@@ -1,0 +1,6 @@
+{
+  "name": "MedCase - Medical Case Management System",
+  "description": "Enterprise medical implant case management system for tracking surgical implant cases from draft to completion with role-based access control, REST APIs, and clinical scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
